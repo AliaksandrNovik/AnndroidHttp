@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.war
+*.ear
+
+
+* .classpath
+*.txt
+*.html
+.xml
+.DS_Store
+.classpath
+
+*.project
+/codecover
+/target
+/test-output
+/.settings
+/.metadata
+/bin
+/resources
+*.rar
+*.zip
+
+*.app
+/logs
+FOR IDEA
+/.idea
+*.iml
+/aut
+/out
+project.properties
+local.properties
+build.xml
+ant.properties
+*.apk
